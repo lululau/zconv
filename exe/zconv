@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'zconv'
+
+Zconv::App.new.run
